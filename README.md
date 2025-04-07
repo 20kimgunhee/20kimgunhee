@@ -1,4 +1,4 @@
-## Hi there 👋
+## 20학번 3학년 김건희입니다.
 
 <!--
 **20kimgunhee/20kimgunhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
